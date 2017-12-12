@@ -1,4 +1,4 @@
-=Passi=
+# Passi
 
 * npm init
 * npm install --save react react-dom
@@ -7,7 +7,7 @@
 * aggiungiamo a package.json: 
 
 
-=TODO=
+# TODO
 
 * Inseriamo OpenLayers
 * Creiamo una prima mappa
