@@ -1,5 +1,7 @@
 # Passi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sirmmo/ispra_ol4.svg)](https://greenkeeper.io/)
+
 * npm init
 * npm install --save react react-dom
 * npm install --save-dev babel-cli babel-preset-env babel-preset-react babel-preset-es2015 babel-core babel-loader
